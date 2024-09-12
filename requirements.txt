@@ -10,7 +10,7 @@ Pillow==7.2.0
 pypesq==1.2.4
 pystoi==0.2.2
 pytube==9.5.2
-scikit_learn==0.23.1
+scikit_learn
 scipy==1.7.2
 SoundFile==0.10.3.post1
 tensorboardX==2.1
